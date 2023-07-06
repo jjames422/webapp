@@ -25,3 +25,7 @@ body {
     )
     rgb(var(--background-start-rgb));
 }
+@font-face {
+  font-family: "sans-serif";
+  src: url('/public/fonts/Video\ Game\ Font.woff') format('woff');
+}
